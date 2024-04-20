@@ -1,4 +1,5 @@
-# SucharithaHealthHub
+# Informatic tools in Diabetes Management
+
 Maximizing Prevention Through Informatics in Diabetes Management
 
 Research Question 
