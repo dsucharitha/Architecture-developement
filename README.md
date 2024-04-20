@@ -2,7 +2,7 @@
 
 Maximizing Prevention Through Informatics in Diabetes Management
 
-Research Question 
+Research Question -
 How can health information technology (IT) be leveraged to enhance the management of type 2 diabetes (T2D) and maximize prevention efforts?
 
 Objective: 
